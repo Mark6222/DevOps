@@ -1,0 +1,1 @@
+Instance: http://fqxrwi-mhogan-bucket.s3-website-us-east-1.amazonaws.com bucket: http://54.235.9.3

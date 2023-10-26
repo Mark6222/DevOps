@@ -1,0 +1,1 @@
+Instance: http://tjjhbc-bucket.s3-website-us-east-1.amazonaws.com bucket: http://18.205.233.206
